@@ -46,10 +46,10 @@ Bash
 # 1. Update system packages and install Git / Python3
 sudo apt update && sudo apt install git python3 python3-pip -y
 
-# 2. Clone your repository (Replace with your actual GitHub link)
+# 2. Clone your repository IMEI--TRACKER
 git clone https://github.com/Rockyrook96/IMEI--TRACKER.git
 
-cd your-imei-tool
+cd IMEI--TRACKER
 
 # 3. Install required Python dependencies
 pip3 install -r requirements.txt
