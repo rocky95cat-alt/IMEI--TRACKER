@@ -1,4 +1,4 @@
-# IMEI--TRACKER
+# IMEI-TRACKER
 A simple and effective tool designed to easily track and recover lost mobile phones using their IMEI number. Use this to ensure the security of your device.
 
 Here is a clear, professional project description for your IMEI lookup and tracking tool designed to run on Kali Linux. You can use this for your GitHub README.md, personal portfolio, or project documentation.
